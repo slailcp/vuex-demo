@@ -1,0 +1,79 @@
+{
+  "info": [
+    {
+      "id": "4579a806-5ebd-4508-b787-b096510fe571",
+      "AccountData": "fanjiaopenid01",
+      "name": "貂蝉2",
+      "password": "diaochan",
+      "MobilePhone": "18032556552",
+      "CustomerType": 1,
+      "Gender": 1,
+      "self": false
+    },
+    {
+      "id": "4579a806-5ebd-4508-b787-b096510fe572",
+      "AccountData": "fanjiaopenid02",
+      "name": "吕布1",
+      "password": "lvbu",
+      "MobilePhone": "18032556552",
+      "CustomerType": 1,
+      "Gender": 1,
+      "self": false
+    },
+    {
+      "id": "4579a806-5ebd-4508-b787-b096510fe574",
+      "AccountData": "fanjiaopenid04",
+      "name": "王昭君",
+      "password": "wangzhaojun",
+      "MobilePhone": "18032556554",
+      "CustomerType": 1,
+      "Gender": 1,
+      "self": false
+    },
+    {
+      "id": "4579a806-5ebd-4508-b787-b096510fe575",
+      "AccountData": "fanjiaopenid01",
+      "name": "小乔",
+      "password": "diaochan",
+      "MobilePhone": "18032556555",
+      "CustomerType": 1,
+      "Gender": 1,
+      "self": false
+    },
+    {
+      "id": "4579a806-5ebd-4508-b787-b096510fe576",
+      "AccountData": "fanjiaopenid01",
+      "name": "周瑜1",
+      "password": "diaochan",
+      "MobilePhone": "18032556556",
+      "CustomerType": 1,
+      "Gender": 1,
+      "self": false
+    },
+    {
+      "id": 6510169284,
+      "AccountData": "fanjiaopenid061",
+      "name": "妲己",
+      "password": "888888",
+      "MobilePhone": "121111111",
+      "CustomerType": 1,
+      "Gender": 1
+    },
+    {
+      "id": 4297558569,
+      "AccountData": "shangguanwaner",
+      "name": "上官婉儿2",
+      "password": "shangguanwaner",
+      "MobilePhone": "15112336856",
+      "CustomerType": "2",
+      "Gender": 1
+    },
+    {
+      "name": "盾山",
+      "password": "2",
+      "sex": "男",
+      "old": "10",
+      "id": "4h8WPGn"
+    }
+  ]
+}
